@@ -1,5 +1,7 @@
 # Data Job Salary Dashbord
 "Add dashbord Gif"
+![Dashbord](path/to/image)
+
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
