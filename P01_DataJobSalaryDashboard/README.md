@@ -1,13 +1,13 @@
-# Data Job Salary Dashbord
-![Dashbord](https://github.com/DayLord1/EXCEL/blob/4e7a853e286829a8aaa783bc9eb7c48f7b29fadb/P01_DataJobSalaryDashbord/Dashbord.gif)
+# Data Job Salary Dashboard
+![Dashboard](https://github.com/DayLord1/EXCEL/blob/5e445a38dde6c5eb6d29b693ffe3743ed92e94e7/P01_DataJobSalaryDashboard/Pictures/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
 
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
-The data is from the Excel course I completed, which provides a foundation in analyzing data using this powerful tool. The data contains detailed information on job titles, salaries, locations, and essential skills that are presented here.
+This dataset comes from an Excel course I completed under the guidance of Luke Barousse on his YouTube channel. The course provided a solid foundation in data analysis using Excel. The dataset includes detailed information on job titles, salaries, locations, and key skills, which are presented here.
 
 ### Dashboard File
-My final dashboard is in "Add file to download".
+My final dashboard is in [P01_DataJobSalaryDashboard](https://github.com/DayLord1/EXCEL/blob/bdccc15bbde6011fc674f888b8a53b95b56c8796/P01_DataJobSalaryDashbord/P01_DataJobSalaryDashbord.xlsx)
 ### Excel Skills Used
 
 The following Excel skills were utilized for analysis:
@@ -31,7 +31,7 @@ The dataset used for this project contains imaginary real-world data science job
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-img src="path" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="https://github.com/DayLord1/EXCEL/blob/bdccc15bbde6011fc674f888b8a53b95b56c8796/P01_DataJobSalaryDashbord/Pictures/Screenshot%202025-04-06%20162230.png" width="850" height="550" alt="Salary Dashboard Chart1">
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -40,7 +40,7 @@ img src="path" width="850" height="550" alt="Salary Dashboard Chart1">
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-"Add map gif"
+![Map_Chart](https://github.com/DayLord1/EXCEL/blob/bdccc15bbde6011fc674f888b8a53b95b56c8796/P01_DataJobSalaryDashbord/Pictures/Maps.gif)
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
@@ -80,7 +80,7 @@ IF(
     - 🚫 Incorrect or inconsistent entries are prevented
     - 👥 Overall usability of the dashboard is enhanced
 
-img src="gif path" width="425" height="400" alt="Salary Dashboard Data Validation">
+<img src="https://github.com/DayLord1/EXCEL/blob/bdccc15bbde6011fc674f888b8a53b95b56c8796/P01_DataJobSalaryDashbord/Pictures/dropbox.gif" width="425" height="400" alt="Salary Dashboard Data Validation">
 
 ## Conclusion 
 I created this dashboard to showcase skills I learned throught the course. Utilizing data, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
