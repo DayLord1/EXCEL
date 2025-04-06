@@ -1,5 +1,6 @@
 # Data Job Salary Dashbord
-"Add dashbord Gif"
+![Dashbord](https://github.com/DayLord1/EXCEL/blob/4e7a853e286829a8aaa783bc9eb7c48f7b29fadb/P01_DataJobSalaryDashbord/Dashbord.gif)
+
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
 
