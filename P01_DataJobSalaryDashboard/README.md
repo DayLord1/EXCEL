@@ -1,5 +1,5 @@
 # Data Job Salary Dashboard
-![Dashboard](https://github.com/DayLord1/EXCEL/blob/5e445a38dde6c5eb6d29b693ffe3743ed92e94e7/P01_DataJobSalaryDashboard/Pictures/Untitled%20video%20-%20Made%20with%20Clipchamp.gif)
+<img src="https://github.com/DayLord1/EXCEL/blob/5e445a38dde6c5eb6d29b693ffe3743ed92e94e7/P01_DataJobSalaryDashboard/Pictures/Untitled%20video%20-%20Made%20with%20Clipchamp.gif" width="850" height="550"/>
 
 
 This data jobs salary dashboard was created to help job seekers investigate salaries for their desired jobs and ensure they are being adequately compensated. 
@@ -31,7 +31,7 @@ The dataset used for this project contains imaginary real-world data science job
 
 #### 📊 Data Science Job Salaries - Bar Chart
 
-<img src="https://github.com/DayLord1/EXCEL/blob/bdccc15bbde6011fc674f888b8a53b95b56c8796/P01_DataJobSalaryDashbord/Pictures/Screenshot%202025-04-06%20162230.png" width="850" height="550" alt="Salary Dashboard Chart1">
+<img src="https://github.com/DayLord1/EXCEL/blob/bdccc15bbde6011fc674f888b8a53b95b56c8796/P01_DataJobSalaryDashbord/Pictures/Screenshot%202025-04-06%20162230.png" width="800" height="400" alt="Salary Dashboard Chart1">
 
 - 🛠️ **Excel Features:** Utilized bar chart feature (with formatted salary values) and optimized layout for clarity.
 - 🎨 **Design Choice:** Horizontal bar chart for visual comparison of median salaries.
@@ -40,7 +40,7 @@ The dataset used for this project contains imaginary real-world data science job
 
 #### 🗺️ Country Median Salaries - Map Chart
 
-![Map_Chart](https://github.com/DayLord1/EXCEL/blob/bdccc15bbde6011fc674f888b8a53b95b56c8796/P01_DataJobSalaryDashbord/Pictures/Maps.gif)
+<img src="https://github.com/DayLord1/EXCEL/blob/bdccc15bbde6011fc674f888b8a53b95b56c8796/P01_DataJobSalaryDashbord/Pictures/Maps.gif" width="800" height="400" />
 
 - 🛠️ **Excel Features:** Utilized Excel's map chart feature to plot median salaries globally.
 - 🎨 **Design Choice:** Color-coded map to visually differentiate salary levels across regions.
